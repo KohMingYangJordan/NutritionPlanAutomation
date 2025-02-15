@@ -6,9 +6,9 @@
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.IntegrationService.Activities": "[1.12.0]",
-    "UiPath.Mail.Activities": "[1.21.1]",
+    "UiPath.Mail.Activities": "1.24.13",
     "UiPath.MicrosoftOffice365.Activities": "[2.8.23]",
-    "UiPath.System.Activities": "[23.10.5]",
+    "UiPath.System.Activities": "24.10.7",
     "UiPath.Testing.Activities": "[23.10.1]",
     "UiPath.UIAutomation.Activities": "[23.10.7]",
     "UiPath.Word.Activities": "[1.20.3]"
@@ -47,7 +47,6 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true,
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
@@ -55,6 +54,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "1d6a102f-583e-457e-94a5-5d29c6ff521f",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Nutrition Plan.xaml",
+      "uniqueId": "750093f1-ec42-4d84-8683-cd6798ccd8a3",
       "input": [],
       "output": []
     }
